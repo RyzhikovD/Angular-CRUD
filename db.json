@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "Dorian Gray is the subject of a full-length portrait in oil by Basil Hallward, an artist impressed and infatuated by Dorian's beauty; he believes that Dorian's beauty is responsible for the new mood in his art as a painter. Through Basil, Dorian meets Lord Henry Wotton, and he soon is enthralled by the aristocrat's hedonistic world view: that beauty and sensual fulfilment are the only things worth pursuing in life.\n\nNewly understanding that his beauty will fade, Dorian expresses the desire to sell his soul, to ensure that the picture, rather than he, will age and fade. The wish is granted, and Dorian pursues a libertine life of varied amoral experiences while staying young and beautiful; all the while, his portrait ages and records every sin.",
+      "id": 1
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "It is regarded as a central work of world literature and one of Tolstoy's finest literary achievements. The novel chronicles the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families.",
+      "id": 2
+    }
+  ]
+}
